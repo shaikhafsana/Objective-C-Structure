@@ -11,7 +11,7 @@
 struct employee
 {
     int empId;
-    char empName[5];
+    char empName[10];
     char empDepartment[10];
     int basicSalary;
 }emp[10];
